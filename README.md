@@ -1,7 +1,8 @@
 # Introduction-To-Machine-Learning
 
-Introduction To Machine Learning course at innopolis university bachelor Datascience Fall semester 2022
+This repository for Introduction to Machine Learning course which include labs and exams from Innopolis university bachelor degree third year Data science Fall semester 2022
 
+The main purpose of this course:
 There is a growing business need of individuals skilled in artificial intelligence, data analytics, and machine learning. Therefore, the purpose of this course is to provide students with an intensive treatment of a cross-section of the key elements of machine learning, with an emphasis on implementing them in modern programming environments, and using them to solve real-world data science problems.
 
 Course Sections and Topics:
