@@ -6,48 +6,48 @@ There is a growing business need of individuals skilled in artificial intelligen
 Course Sections and Topics:
 
 Supervised Learning:
-Introduction to Machine Learning
-Derivatives and Cost Function
-Data Pre-processing
-Linear Regression
-Multiple Linear Regression
-Gradient Descent
-Polynomial Regression
-Bias-varaince Tradeoff
-Difference between classification and regression
-Logistic Regression
-Naive Bayes
-KNN
-Confusion Metrics
-Performance Metrics
-Regularization
-Hyperplane Based Classification
-Perceptron Learning Algorithm
-Max-Margin Classification
-Support Vector Machines
-Slack Variables
-Lagrangian Support Vector Machines
-Kernel Trick
+ Introduction to Machine Learning,
+ Derivatives and Cost Function,
+ Data Pre-processing,
+ Linear Regression,
+ Multiple Linear Regression,
+ Gradient Descent,
+ Polynomial Regression,
+ Bias-varaince Tradeoff,
+ Difference between classification and regression,
+ Logistic Regression,
+ Naive Bayes,
+KNN: 
+ Confusion Metrics,
+ Performance Metrics,
+ Regularization,
+ Hyperplane Based Classification,
+ Perceptron Learning Algorithm,
+ Max-Margin Classification,
+ Support Vector Machines,
+ Slack Variables,
+ Lagrangian Support Vector Machines,
+ Kernel Trick,
 
 Decision Trees and Ensemble Methods: 
-Decision Trees
-Bagging
-Boosting
-Random Forest
-Adaboost
+ Decision Trees,
+ Bagging,
+ Boosting,
+ Random Forest,
+ Adaboost,
 
 Unsupervised Learning
-K-means Clustering
-K-means++
-Hierarchical Clustering
-DBSCAN
-Mean-shift
+ K-means Clustering,
+ K-means++,
+ Hierarchical Clustering,
+ DBSCAN,
+ Mean-shift,
 
 Deep Learning
-Artificial Neural Networks
-Back-propagation
-Convolutional Neural Networks
-Autoencoder
-Variatonal Autoencoder
-Generative Adversairal Networks
+ Artificial Neural Networks,
+ Back-propagation,
+ Convolutional Neural Networks,
+ Autoencoder,
+ Variatonal Autoencoder,
+ Generative Adversairal Networks,
 
