@@ -1,5 +1,7 @@
 # Introduction-To-Machine-Learning
 
+Note : assignment 2 is very intersting
+
 This repository for Introduction to Machine Learning course which include labs and exams from Innopolis university bachelor degree third year Data science Fall semester 2022
 
 The main purpose of this course:
